@@ -1,0 +1,50 @@
+Sample,Time,Signal_Type,Count
+pRE,25,None,86
+pRE,50,None,131
+pRE,75,None,574
+pRE,75,ThT,1
+gp28,25,None,123
+gp28,50,None,143
+gp28,50,ThT,29
+gp28,75,None,28
+gp28,75,ThT,214
+gp28,75,ThT_and_Sytox,26
+gp28,75,Sytox,11
+gp28-his,25,None,140
+gp28-his,25,ThT,1
+gp28-his,50,None,39
+gp28-his,50,ThT,133
+gp28-his,50,ThT_and_Sytox,2
+gp28-his,75,None,73
+gp28-his,75,ThT,57
+gp28-his,75,ThT_and_Sytox,209
+gp28-his,75,Sytox,158
+gp28-his L46P,25,None,109
+gp28-his L46P,50,None,168
+gp28-his L46P,50,ThT,11
+gp28-his L46P,50,ThT_and_Sytox,1
+gp28-his L46P,75,None,145
+gp28-his L46P,75,ThT,181
+gp28-his K16C,25,None,77
+gp28-his K16C,25,ThT,3
+gp28-his K16C,50,None,32
+gp28-his K16C,50,ThT,90
+gp28-his K16C,50,ThT_and_Sytox,61
+gp28-his K16C,75,None,1
+gp28-his K16C,75,ThT,7
+gp28-his K16C,75,ThT_and_Sytox,134
+gp28 L46P,25,None,88
+gp28 L46P,25,ThT,1
+gp28 L46P,50,None,163
+gp28 L46P,50,ThT,68
+gp28 L46P,75,None,185
+gp28 L46P,75,ThT,224
+gp28 K16C,25,None,116
+gp28 K16C,50,None,322
+gp28 K16C,50,ThT,60
+gp28 K16C,50,ThT_and_Sytox,2
+gp28 K16C,50,Sytox,13
+gp28 K16C,75,None,75
+gp28 K16C,75,ThT,177
+gp28 K16C,75,ThT_and_Sytox,108
+gp28 K16C,75,Sytox,16
